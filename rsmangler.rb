@@ -10,13 +10,14 @@
 # See the README for full information
 #
 # Author:: Robin Wood (robin@digininja.org)
-# Version:: 1.4
+# Version:: 1.4-alt
 # Copyright:: Copyright(c) 2012, RandomStorm Limited - www.randomstorm.com
 # Licence:: Creative Commons Attribution-Share Alike 2.0
 #
 # Changes:
 # 1.4 - Added full leetspeak option, thanks Felipe Molina (@felmoltor)
 #
+# 1.4-alt - Added option to dump straight to disk, because my expanded options were filling all ram.
 
 require "date"
 require 'getoptlong'
